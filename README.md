@@ -1,3 +1,4 @@
+![logo](https://github.com/Amitkarun-singh/Amitkarun-singh/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Amitkumar singh</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
